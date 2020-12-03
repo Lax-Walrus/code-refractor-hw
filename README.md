@@ -8,9 +8,9 @@ Format: ![screenshot](https://github.com/Lax-Walrus/code-refractor-hw/blob/main/
 ![GitHub Logo](https://github.com/Lax-Walrus/code-refractor-hw/blob/main/screen%20shots/screencapture-lax-walrus-github-io-code-refractor-hw-2020-12-03-14_50_40.pdf)
 
 
-# original code was clunky and redundent cleaned up the following list below 
+# Original code was clunky and redundent cleaned up the following list below 
 
-HTML CORRECTIONS
+## HTML CORRECTIONS
 
 1. removed div header and replaced with "header" tag
 
@@ -38,7 +38,7 @@ HTML CORRECTIONS
 
 13. changed footer "H" tag from 2 to 4
 
-# CSS CORRECTIONS:
+## CSS CORRECTIONS:
 
 condensed the tags with like styles
 
