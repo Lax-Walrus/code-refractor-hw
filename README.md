@@ -8,25 +8,25 @@ Format: ![screenshot](https://github.com/Lax-Walrus/code-refractor-hw/blob/main/
 
 
 
-#original code was clunky and redundent cleaned up the following list below:
+# original code was clunky and redundent cleaned up the following list below 
 
 HTML CORRECTIONS
 
-1.removed div header and replaced with "header" tag
+1. removed div header and replaced with "header" tag
 
-2.removed div and replaced with "nav" tag
+1. removed div and replaced with "nav" tag
 
-3.changed background image from div to figure in html css unchanged
+1. changed background image from div to figure in html css unchanged
 
-changed div class to section
+1. changed div class to section
 
-added alt tags to all images
+1. added alt tags to all images
 
-added class "search-engine-optimization" to search-engine-opitmization
+1. added class "search-engine-optimization" to search-engine-opitmization
 
-changed each div id to artical id
+1. changed each div id to artical id
 
-condensed in css\ noted in style.css  
+1. condensed in css\ noted in style.css  
 
 changed div class to an aside tag
 
