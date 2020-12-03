@@ -3,7 +3,9 @@
 
 Deployment link: https://lax-walrus.github.io/code-refractor-hw/
 
-![ScreenShot](https://lax-walrus.github.io/code-refractor-hw/)
+![ScreenShot](https://github.com/Lax-Walrus/code-refractor-hw/blob/main/screen%20shots/screencapture-lax-walrus-github-io-code-refractor-hw-2020-12-03-14_50_40.pdf)
+
+
 
 
 original code was clunky and redundent cleaned up the following list below:
