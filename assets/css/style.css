@@ -59,7 +59,10 @@ figure {
     background-position: center;
 }
 
-/* removed .float right*/
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 
 .float-left {
     float: left;
