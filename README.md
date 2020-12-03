@@ -8,15 +8,15 @@ Deployment link: https://lax-walrus.github.io/code-refractor-hw/
 
 
 
-original code was clunky and redundent cleaned up the following list below:
+#original code was clunky and redundent cleaned up the following list below:
 
 HTML CORRECTIONS
 
-removed div header and replaced with "header" tag
+1.removed div header and replaced with "header" tag
 
-removed div and replaced with "nav" tag
+2.removed div and replaced with "nav" tag
 
-changed background image from div to figure in html css unchanged
+3.changed background image from div to figure in html css unchanged
 
 changed div class to section
 
